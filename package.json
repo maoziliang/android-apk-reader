@@ -1,0 +1,15 @@
+{
+  "name": "apk_reader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "apk2xml.bundle.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "adbkit-apkreader": "^1.0.0",
+    "buffer": "^3.2.2"
+  }
+}
